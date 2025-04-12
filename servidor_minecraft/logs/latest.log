@@ -1,0 +1,151 @@
+[00:52:48] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[00:52:48] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[00:52:49] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:52:49] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[00:52:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:52:55] [ServerMain/INFO]: Loaded 1290 recipes
+[00:52:55] [ServerMain/INFO]: Loaded 1399 advancements
+[00:52:55] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:52:55] [Server thread/INFO]: Loading properties
+[00:52:55] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[00:52:56] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:52:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:52:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:52:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[00:52:57] [Server thread/INFO]: Default game type: SURVIVAL
+[00:52:57] [Server thread/INFO]: Generating keypair
+[00:52:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:52:57] [Server thread/INFO]: Using epoll channel type
+[00:52:57] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:52:57] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:52:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:52:57] [Server thread/INFO]: Preparing level "world"
+[00:52:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:52:59] [Server thread/INFO]: Time elapsed: 1273 ms
+[00:52:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:52:59] [Server thread/INFO]: Time elapsed: 221 ms
+[00:52:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:52:59] [Server thread/INFO]: Time elapsed: 162 ms
+[00:52:59] [Server thread/INFO]: [spark] Starting background profiler...
+[00:53:00] [Server thread/INFO]: Done preparing level "world" (2.506s)
+[00:53:00] [Server thread/INFO]: Running delayed init tasks
+[00:53:00] [Server thread/INFO]: Done (12.200s)! For help, type "help"
+[00:53:00] [Server thread/INFO]: Timings Reset
+[00:53:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+1<--[HERE]
+[00:53:07] [User Authenticator #0/INFO]: UUID of player Teagokk_ is 5f3b4f9e-0a67-4dab-9cb0-f83a5e0eeb80
+[00:53:08] [Server thread/INFO]: Teagokk_ joined the game
+[00:53:08] [Server thread/INFO]: Teagokk_[/127.189.225.101:56449] logged in with entity id 17 at ([world]-127.526997798505, 64.0, -211.89276362548057)
+[00:53:10] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a02cf26e-e454-4c21-86e6-45be41a7ae4d, mapped to Bat['Bat'/132, uuid='a02cf26e-e454-4c21-86e6-45be41a7ae4d', l='ServerLevel[world]', x=-112.33, y=6.02, z=-106.10, cpos=[-8, -7], tl=59, v=true], can't add Bat['Bat'/161, uuid='a02cf26e-e454-4c21-86e6-45be41a7ae4d', l='ServerLevel[world]', x=-110.72, y=5.71, z=-106.73, cpos=[-7, -7], tl=68, v=false]
+[00:53:14] [Server thread/INFO]: Teagokk_ was slain by Iron Golem
+[00:53:27] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5cf96da7-e6ca-408a-849f-a9a9f0fafcd6, mapped to Sheep['Sheep'/346, uuid='5cf96da7-e6ca-408a-849f-a9a9f0fafcd6', l='ServerLevel[world]', x=-35.19, y=77.00, z=-446.25, cpos=[-3, -28], tl=171366, v=true], can't add Sheep['Sheep'/361, uuid='5cf96da7-e6ca-408a-849f-a9a9f0fafcd6', l='ServerLevel[world]', x=-43.19, y=77.00, z=-449.24, cpos=[-3, -29], tl=165397, v=false]
+[00:53:27] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 8a621377-225a-4c6a-b10a-6074ab5e9321, mapped to Bee['Bee'/251, uuid='8a621377-225a-4c6a-b10a-6074ab5e9321', l='ServerLevel[world]', x=-17.71, y=94.59, z=-338.65, cpos=[-2, -22], tl=105408, v=true], can't add Bee['Bee'/364, uuid='8a621377-225a-4c6a-b10a-6074ab5e9321', l='ServerLevel[world]', x=158.39, y=74.05, z=-258.59, cpos=[9, -17], tl=99375, v=false]
+[00:53:39] [User Authenticator #0/INFO]: UUID of player Agent_FFFF is 85877a29-3809-40d5-ac54-89af91210b4d
+[00:53:40] [Server thread/INFO]: Agent_FFFF joined the game
+[00:53:40] [Server thread/INFO]: Agent_FFFF[/127.86.91.244:52697] logged in with entity id 555 at ([world]-127.8931338191377, 64.5625, -202.30000001192093)
+[00:59:26] [Server thread/INFO]: Villager Villager['Toolsmith'/25, uuid='2ee4d77e-9749-4b48-a540-7cab09e1746d', l='ServerLevel[world]', x=-122.52, y=64.00, z=-212.58, cpos=[-8, -14], tl=203875, v=true] died, message: 'Toolsmith went up in flames'
+[00:59:44] [Async Chat Thread - #2/INFO]: <Agent_FFFF> a
+[01:00:14] [Server thread/INFO]: Villager Villager['Nitwit'/18, uuid='b270a396-767a-43e7-b35c-4e0b1e0c0dc6', l='ServerLevel[world]', x=-123.26, y=64.56, z=-207.50, cpos=[-8, -13], tl=204933, v=true] died, message: 'Nitwit went up in flames'
+[01:00:32] [Server thread/INFO]: Villager Villager['Fletcher'/21, uuid='d999986a-2f19-4ee2-a931-f27958c55db2', l='ServerLevel[world]', x=-120.75, y=64.56, z=-205.45, cpos=[-8, -13], tl=204061, v=true] died, message: 'Fletcher was slain by Teagokk_'
+[01:00:34] [Server thread/INFO]: Villager Villager['Weaponsmith'/22, uuid='eb138c92-73e1-4d7d-9ac7-15cc21515b86', l='ServerLevel[world]', x=-120.50, y=64.00, z=-206.50, cpos=[-8, -13], tl=205306, v=true] died, message: 'Weaponsmith was slain by Teagokk_'
+[01:00:37] [Server thread/INFO]: Villager Villager['Farmer'/24, uuid='54081beb-dcbe-4218-ad62-5ec69c731caf', l='ServerLevel[world]', x=-124.38, y=64.56, z=-205.74, cpos=[-8, -13], tl=205436, v=true] died, message: 'Farmer was slain by Teagokk_'
+[01:00:56] [Server thread/INFO]: Villager Villager['Armorer'/23, uuid='5b193dc7-8711-4114-9396-f763363717fc', l='ServerLevel[world]', x=-114.51, y=64.00, z=-204.54, cpos=[-8, -13], tl=205754, v=true] died, message: 'Armorer was slain by Agent_FFFF'
+[01:00:59] [Server thread/INFO]: Villager Villager['Villager'/20, uuid='324b2ff4-0f69-4735-b9c8-23ff64206354', l='ServerLevel[world]', x=-124.73, y=64.56, z=-206.18, cpos=[-8, -13], tl=201895, v=true] died, message: 'Villager was slain by Agent_FFFF'
+[01:01:04] [Server thread/INFO]: Villager Villager['Toolsmith'/29, uuid='14861fac-af8d-4785-bfa7-280452c30c12', l='ServerLevel[world]', x=-124.76, y=64.00, z=-206.93, cpos=[-8, -13], tl=202255, v=true] died, message: 'Toolsmith was slain by Agent_FFFF'
+[01:01:19] [Server thread/INFO]: Villager Villager['Fletcher'/28, uuid='98bf0c62-9e15-423c-955c-e942425997df', l='ServerLevel[world]', x=-127.70, y=67.42, z=-195.63, cpos=[-8, -13], tl=205286, v=true] died, message: 'Fletcher was slain by Agent_FFFF'
+[01:01:58] [Server thread/INFO]: Made Teagokk_ a server operator
+[01:02:05] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt
+[01:02:05] [Server thread/INFO]: [Teagokk_: Gave 1 [TNT] to Teagokk_]
+[01:02:08] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:08] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:09] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:09] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:09] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:09] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:10] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:10] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:10] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:10] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:11] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:11] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:11] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:11] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:12] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:12] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:12] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:12] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:14] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:14] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:14] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:14] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:15] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:15] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:15] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64t
+[01:02:17] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:17] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:18] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:18] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:18] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:18] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:19] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:19] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:20] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:20] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:20] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:20] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:21] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:21] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:21] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:21] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:22] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:22] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:22] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:22] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:23] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:23] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:23] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:23] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:24] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:24] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:24] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:24] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:25] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:25] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:26] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64t
+[01:02:27] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:27] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:29] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:29] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:29] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:29] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:30] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:30] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:33] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:33] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:34] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:34] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:35] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:35] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:35] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:35] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:36] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:36] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:36] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:36] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:37] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:37] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:37] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:37] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:38] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64t
+[01:02:39] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:39] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:40] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:40] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:41] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:41] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:42] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:42] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:43] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:43] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
+[01:02:43] [Server thread/INFO]: Teagokk_ issued server command: /give Teagokk_ tnt 64
+[01:02:43] [Server thread/INFO]: [Teagokk_: Gave 64 [TNT] to Teagokk_]
